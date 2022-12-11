@@ -1,4 +1,6 @@
-﻿namespace MAUI_Project_5;
+﻿using MAUI_Project_5.Views;
+
+namespace MAUI_Project_5;
 
 public static class MauiProgram
 {
@@ -13,6 +15,8 @@ public static class MauiProgram
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
 			});
 
-		return builder.Build();
+        builder.Services.AddSingleton<LoginPage>();
+
+        return builder.Build();
 	}
 }
