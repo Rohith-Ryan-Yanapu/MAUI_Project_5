@@ -1,4 +1,5 @@
-﻿using MAUI_Project_5.Views;
+﻿using MAUI_Project_5.ViewModels;
+using MAUI_Project_5.Views;
 
 namespace MAUI_Project_5;
 
@@ -16,6 +17,9 @@ public static class MauiProgram
 			});
 
         builder.Services.AddSingleton<LoginPage>();
+        builder.Services.AddSingleton<AccountsList>();
+
+        builder.Services.AddSingleton<AccountsViewModel>();
 
         return builder.Build();
 	}

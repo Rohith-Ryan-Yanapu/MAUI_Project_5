@@ -3,12 +3,24 @@
     x:Class="MAUI_Project_5.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:MAUI_Project_5"
-    Shell.FlyoutBehavior="Disabled">
+    xmlns:local="clr-namespace:MAUI_Project_5.Views"
+    Shell.FlyoutBehavior="Flyout">
 
     <ShellContent
         Title="Login Page" FlyoutItemIsVisible="False" Shell.FlyoutBehavior="Disabled"
         ContentTemplate="{DataTemplate local:LoginPage}"
         Route="LoginPage" />
-
+    <ShellContent
+        Title="Accounts List"
+        ContentTemplate="{DataTemplate local:AccountsList}"
+        Route="AccountsList" />
+    <ShellContent
+        Title="About Page"
+        ContentTemplate="{DataTemplate local:About}"
+        Route="About" />
+    <Shell.FlyoutFooter>
+        <StackLayout Padding="20">
+            <Button Text="Sign Out" Command="{Binding SignOutCommand}" />
+        </StackLayout>
+    </Shell.FlyoutFooter>
 </Shell>
