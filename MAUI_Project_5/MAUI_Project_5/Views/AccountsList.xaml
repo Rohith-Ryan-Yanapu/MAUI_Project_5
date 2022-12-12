@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:models="clr-namespace:PrivatePocketSafe.Models"
-             x:Class="PrivatePocketSafe.Views.AccountsList"
+             xmlns:models="clr-namespace:MAUI_Project_5.Models"
+             x:Class="MAUI_Project_5.Views.AccountsList"
              Title="Accounts List">
     <Grid RowDefinitions="*,Auto">
         <CollectionView 

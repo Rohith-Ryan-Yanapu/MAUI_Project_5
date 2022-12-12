@@ -380,3 +380,10 @@ C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\n
 C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MAUI_Project_5.dll
 C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\refint\MAUI_Project_5.dll
 C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MAUI_Project_5.pdb
+D:\MAUI\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+D:\MAUI\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+D:\MAUI\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.nativelibrary.dll
+D:\MAUI\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+D:\MAUI\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\MAUI\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\MAUI\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll

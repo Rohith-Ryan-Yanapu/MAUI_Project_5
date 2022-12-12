@@ -1,8 +1,8 @@
-﻿using PrivatePocketSafe.Views;
-using PrivatePocketSafe.Data;
-using PrivatePocketSafe.ViewModels;
+﻿using MAUI_Project_5.Views;
+using MAUI_Project_5.Data;
+using MAUI_Project_5.ViewModels;
 
-namespace PrivatePocketSafe;
+namespace MAUI_Project_5;
 
 public static class MauiProgram
 {

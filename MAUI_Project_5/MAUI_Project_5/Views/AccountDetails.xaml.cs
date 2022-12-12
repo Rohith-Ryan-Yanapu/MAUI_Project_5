@@ -1,7 +1,7 @@
-using PrivatePocketSafe.Data;
-using PrivatePocketSafe.Models;
+using MAUI_Project_5.Data;
+using MAUI_Project_5.Models;
 
-namespace PrivatePocketSafe.Views;
+namespace MAUI_Project_5.Views;
 
 [QueryProperty("Item", "Item")]
 public partial class AccountDetails : ContentPage

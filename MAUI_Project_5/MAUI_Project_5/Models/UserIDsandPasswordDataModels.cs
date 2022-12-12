@@ -1,6 +1,6 @@
 ﻿using SQLite;
 
-namespace PrivatePocketSafe.Models;
+namespace MAUI_Project_5.Models;
 
 public class UNPItem
 {

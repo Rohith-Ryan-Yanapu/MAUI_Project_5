@@ -1,4 +1,4 @@
-﻿namespace PrivatePocketSafe;
+﻿namespace MAUI_Project_5;
 
 public static class DatabaseLocation
 {

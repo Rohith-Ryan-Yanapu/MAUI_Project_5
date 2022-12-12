@@ -1,7 +1,7 @@
 ﻿using SQLite;
-using PrivatePocketSafe.Models;
+using MAUI_Project_5.Models;
 
-namespace PrivatePocketSafe.Data;
+namespace MAUI_Project_5.Data;
 
 public class UNPItemDatabase
 {

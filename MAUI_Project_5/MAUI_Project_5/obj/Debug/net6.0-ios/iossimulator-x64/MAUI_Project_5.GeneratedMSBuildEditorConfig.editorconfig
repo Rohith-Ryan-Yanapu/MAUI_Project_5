@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MAUI_Project_5
-build_property.ProjectDir = C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\
+build_property.ProjectDir = D:\MAUI\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\
 
-[C:/Jithu/CROSS PLATFORM/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/App.xaml]
+[D:/MAUI/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Project_5.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Jithu/CROSS PLATFORM/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/AppShell.xaml]
+[D:/MAUI/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Project_5.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Jithu/CROSS PLATFORM/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/MainPage.xaml]
+[D:/MAUI/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Project_5.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Jithu/CROSS PLATFORM/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Resources/Styles/Colors.xaml]
+[D:/MAUI/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Project_5.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Jithu/CROSS PLATFORM/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Resources/Styles/Styles.xaml]
+[D:/MAUI/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Project_5.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Jithu/CROSS PLATFORM/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Views/About.xaml]
+[D:/MAUI/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Views/About.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Project_5.Views.About.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\About.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\About.xaml
 
-[C:/Jithu/CROSS PLATFORM/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Views/AccountDetails.xaml]
+[D:/MAUI/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Views/AccountDetails.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Project_5.Views.AccountDetails.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\AccountDetails.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\AccountDetails.xaml
 
-[C:/Jithu/CROSS PLATFORM/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Views/AccountsList.xaml]
+[D:/MAUI/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Views/AccountsList.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Project_5.Views.AccountsList.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\AccountsList.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\AccountsList.xaml
 
-[C:/Jithu/CROSS PLATFORM/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Views/LoginPage.xaml]
+[D:/MAUI/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Views/LoginPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Project_5.Views.LoginPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
