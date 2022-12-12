@@ -46,6 +46,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Project_5.Views.About
 build_metadata.AdditionalFiles.TargetPath = Views\About.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\About.xaml
 
+[C:/Jithu/CROSS PLATFORM/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Views/AccountDetails.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Project_5.Views.AccountDetails.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AccountDetails.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AccountDetails.xaml
+
 [C:/Jithu/CROSS PLATFORM/MAUI_Project_5/MAUI_Project_5/MAUI_Project_5/Views/AccountsList.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Project_5.Views.AccountsList.xaml
