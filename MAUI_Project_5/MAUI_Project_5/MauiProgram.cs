@@ -18,6 +18,7 @@ public static class MauiProgram
 
         builder.Services.AddSingleton<LoginPage>();
         builder.Services.AddSingleton<AccountsList>();
+        builder.Services.AddTransient<AccountDetails>();
 
         builder.Services.AddSingleton<AccountsViewModel>();
 

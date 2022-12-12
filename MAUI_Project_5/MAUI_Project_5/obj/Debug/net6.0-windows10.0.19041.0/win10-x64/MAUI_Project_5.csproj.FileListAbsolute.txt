@@ -365,3 +365,18 @@ D:\MAUI\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.
 D:\MAUI\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\more_icon.scale-100.png
 D:\MAUI\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\team.scale-100.png
 D:\MAUI\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MAUI_Project_5.csproj.AssemblyReference.cache
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MAUI_Project_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MAUI_Project_5.dll
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\refint\MAUI_Project_5.dll
+C:\Jithu\CROSS PLATFORM\MAUI_Project_5\MAUI_Project_5\MAUI_Project_5\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MAUI_Project_5.pdb
