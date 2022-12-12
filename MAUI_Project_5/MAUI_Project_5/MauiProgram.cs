@@ -1,7 +1,8 @@
-﻿using MAUI_Project_5.ViewModels;
-using MAUI_Project_5.Views;
+﻿using PrivatePocketSafe.Views;
+using PrivatePocketSafe.Data;
+using PrivatePocketSafe.ViewModels;
 
-namespace MAUI_Project_5;
+namespace PrivatePocketSafe;
 
 public static class MauiProgram
 {
@@ -21,6 +22,7 @@ public static class MauiProgram
         builder.Services.AddTransient<AccountDetails>();
 
         builder.Services.AddSingleton<AccountsViewModel>();
+        builder.Services.AddSingleton<UNPItemDatabase>();
 
         return builder.Build();
 	}
